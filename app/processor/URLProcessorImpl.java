@@ -12,7 +12,6 @@ import java.net.URL;
 /**
  * Created by swaroop on 5/8/15.
  */
-@Singleton
 public class URLProcessorImpl implements URLProcessor {
 
   @Override
